@@ -1,2 +1,2 @@
 # vending-machine
-This was my first Java project, applying what we have learned. Used OOP concepts and file I/O to complete the project. 
+This was my first Java project, applying what I have learned at Tech Elevator. Used OOP concepts and file I/O to complete the project. 
